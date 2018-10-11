@@ -8,6 +8,8 @@
 
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 
+[SVG file](./drawing.svg)
+
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
