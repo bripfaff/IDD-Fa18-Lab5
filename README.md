@@ -23,7 +23,8 @@
 ![a relative link](./IMG_2870.JPG)
 
 Code:
-``` #include <Servo.h> 
+``` 
+#include <Servo.h> 
 
 #define servoPin  10
 #define switchPin 2
@@ -75,7 +76,8 @@ void loop()
     ToggleSwitch(switchState);
 
   delay(100);
-} ```
+} 
+```
 
 ## Putting it All Together
 
