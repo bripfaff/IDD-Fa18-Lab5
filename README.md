@@ -22,8 +22,7 @@
 
 ## Putting it All Together
 
-Include here:
-1. Your Arduino code.
-1. `.stl` or `.svg` files for your "bopper" — if you use some other technique, include the respective supporting material.
-1. At least one photo of your useless box taken in the MakerLab's Portable Photo Studio (or somewhere else, but of similar quality).
-1. A video of your useless box in action.
+## Link to video of useless box in action 
+[Video link](https://youtu.be/gpgsJwDz95k)
+
+notes: My useless box did not work. I found that the servo did not have enough torque to push the switch closed. I found this after making several iterations on my bopper to try add more weight to the top and chanign the code to try maximize the pushing power of the motor however, the way I designed the box with the servo on the bottom was no conducive to it working.
