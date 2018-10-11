@@ -3,12 +3,16 @@
 ## 3D Printing
 
 **a. Include a photo of your printed part here.**
-![a relative link](./IMG1.PNG)
+
+![a relative link](./IMG_2867.JPG)
+
 **b. Include `.stl` or `.svg` files for your bopper, if 3d-printing.**
 
 ## Laser Cutting
 
 **b. Include a photo of your box here.**
+
+![a relative link](./IMG_2864.JPG)
 
 ## Electronics
 
